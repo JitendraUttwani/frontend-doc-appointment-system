@@ -2,6 +2,7 @@
 	"name": "client",
 	"version": "0.1.0",
 	"private": true,
+	"proxy": "https://doctor-appointment-app-api2.onrender.com"
 	"dependencies": {
 		"@reduxjs/toolkit": "^1.9.1",
 		"@testing-library/jest-dom": "^5.16.5",
